@@ -5,9 +5,12 @@ C# Testprogramm für Zahlensysteme
 Arbeitet in Gruppen zu max. 4 Personen Die Aufgabenpakete sind folgende:
 
     Anzeige und Eingabeverarbeitung eines Menüs
-    Eingabe und Verarbeitung von Zahlen zur Basis 2/8/10/16
-    Umrechnung von Zahlen der Basis 8/10/16 in eine Binärzahl
-    Umrechnung einer Binärzahl in Zahlen zur Basis 8/10/16
+    Eingabe und Verarbeitung von Zahlen zur Basis 2/10/16
+    - Auswahl der Aufgabe (umwandeln in welche Basis)
+    - Eingabe einer Binärzahl.
+    - Umrechnung in Basis 10.
+    - Umrechnung in Basis 16.
+ 
     Ausgabe der Umrechnung Jeder Teilnehmer muss mindestens ein Paket bearbeiten.
 
 Completing assignments
